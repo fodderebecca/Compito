@@ -7,8 +7,10 @@ int main{
     for(int i=0; i<10;i++){
             if(c==V[i]){
             }
+            cout << "contatore= "<<"V["<<i>>"]"<<endl;
                         
     }
+    system("PAUSE");
 }
     
 
